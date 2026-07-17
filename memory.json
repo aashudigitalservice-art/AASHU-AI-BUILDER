@@ -1,0 +1,8 @@
+{
+  "project": "AASHU AI OS",
+  "version": "0.1",
+  "status": "Building",
+  "currentStep": 2,
+  "currentModule": "Memory",
+  "nextStep": "Build Engine"
+}
